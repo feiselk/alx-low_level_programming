@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-void print_alphabet(void) /*function with no input and output*/
+void print_alphabet(void)/*function with no input and output*/
 {
 	char c = 'a';
 
