@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - Alphabets
  *
- * Return: Always 0.
+ * Return: void
  */
 
-void print_alphabet(void)/*function with no input and output*/
+void print_alphabet(void)
 {
 	char c = 'a';
 
