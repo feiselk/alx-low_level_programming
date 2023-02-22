@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print the sum of even fibonacci numbers less than 4000000
+ * main - Prints the first 98 Fibonacci numbers, starting with 1 and 2, separated by a comma followed by a space.
  *
  * Return: Always 0
  */
