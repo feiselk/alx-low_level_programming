@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_most_numbers - Print 0 to 9
  * Return: empty
@@ -17,4 +18,5 @@ void print_most_numbers(void)
 		_putchar(n + '0');
 		}
 	}
+	_putchar('\n');
 }
