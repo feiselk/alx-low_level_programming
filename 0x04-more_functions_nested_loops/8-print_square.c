@@ -1,4 +1,4 @@
-vi 8-#include "main.h"
+#include "main.h"
 
 /**
  * print_square - Prints a square n times
