@@ -11,8 +11,11 @@ int n;
 for (n = 48; n <= 57; n++)
 {
 putchar(n);
-putchar(',');
-putchar(' ');
+if (n < 57)
+{
+	putchar(',');
+	putchar(' ');
+}
 }
 
 putchar('\n');
